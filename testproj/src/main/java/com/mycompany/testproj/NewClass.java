@@ -9,5 +9,5 @@ package com.mycompany.testproj;
  * @author User
  */
 public class NewClass {
-    
+    n  m
 }
